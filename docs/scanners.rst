@@ -86,7 +86,7 @@ You can use your phone to "scan" documents. The regular camera app will work, bu
 +-------------------+----------------+-----+-----+-----+-------+--------+------------------+
 | `OpenScan`_       | Android        | no  | no  | no  | no    | no     | `benjaminfrank`_ |
 +-------------------+----------------+-----+-----+-----+-------+--------+------------------+
-| `Quick Scan`_     | iOS            | no  | no  | no  | no    | no     | `holzhannes`_    |
+| `QuickScan`_      | iOS            | no  | yes | yes | yes   | yes    | `holzhannes`_    |
 +-------------------+----------------+-----+-----+-----+-------+--------+------------------+
 
 On Android, you can use these applications in combination with one of the :ref:`Paperless-ng compatible apps <usage-mobile_upload>` to "Share" the documents produced by these scanner apps with paperless. On iOS, you can share the scanned documents via iOS-Sharing to other mail, WebDav or FTP apps.
